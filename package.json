@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "4.2.4",
+  "description": "Component App",
+  "main": "Y",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "N"
+  },
+  "author": "",
+  "license": "ISC"
+}
